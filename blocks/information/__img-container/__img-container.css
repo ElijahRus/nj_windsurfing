@@ -1,0 +1,4 @@
+.information__img-container {
+    display: flex;
+    justify-content: space-around;
+}

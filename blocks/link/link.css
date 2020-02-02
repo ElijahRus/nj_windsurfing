@@ -1,0 +1,8 @@
+.link {
+    font-weight: bold;
+}
+
+.link:hover {
+    font-size: 1.1rem;
+    text-decoration: none;
+}

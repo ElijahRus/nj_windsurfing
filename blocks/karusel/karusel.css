@@ -1,0 +1,6 @@
+@import url("./__item/__item.css");
+@import url("./__img/__img.css");
+
+.karusel {
+    border: 1px solid white;
+}
